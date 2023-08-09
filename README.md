@@ -9,3 +9,5 @@
 8.This handle is passed to perform transfer. if succeded a callback that we specified to handle data incoming getsc executed and writes response to a response object. else an err is retured.
 9. compiled using cmd: g++ -o client_obj_file client.cpp.
 10. executed using cmd: ./client_obj_file.
+orr
+you can use dockerfile to run container outputs the fact by default.
